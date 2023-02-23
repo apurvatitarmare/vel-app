@@ -5,7 +5,7 @@ stages  {
 stage ("stage-1")  {
 steps {
 
-echo "this is stage-1"
+echo "this is master-1"
 
 
 
